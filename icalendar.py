@@ -39,7 +39,7 @@ def process_event(args):
     return EVENT_FMT.format(**args)
 
 
-def print_ics(events, tz="America/New_York"):
+def print_ics(events, tz):
     args = {
         'hash': sha1(str(events)).hexdigest(),
         'time_zone': tz,
