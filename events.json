@@ -1,0 +1,190 @@
+[
+    {
+        "msg": "How to Whiteboard & Diagram",
+        "start": [2020, 4, 13, 18],
+        "end": [2020, 4, 13, 21]
+    },
+    {
+        "msg": "How to Phone Screen Successfully",
+        "start": [2020, 4, 14, 18],
+        "end": [2020, 4, 14, 21]
+    },
+    {
+        "msg": "Recursion",
+        "start": [2020, 4, 15, 18],
+        "end": [2020, 4, 15, 21]
+    },
+    {
+        "msg": "Dynamic Programming [Memoization & Tabulation]",
+        "start": [2020, 4, 16, 18],
+        "end": [2020, 4, 16, 21]
+    },
+    {
+        "msg": "Dynamic Programming [Sliding Window]",
+        "start": [2020, 4, 20, 18],
+        "end": [2020, 4, 20, 21]
+    },
+    {
+        "msg": "Interview practice",
+        "start": [2020, 4, 21, 18],
+        "end": [2020, 4, 21, 21]
+    },
+    {
+        "msg": "Linked list traversal",
+        "start": [2020, 4, 22, 18],
+        "end": [2020, 4, 22, 21]
+    },
+    {
+        "msg": "Binary trees / tries",
+        "start": [2020, 4, 23, 18],
+        "end": [2020, 4, 23, 21]
+    },
+    {
+        "msg": "Graph traversal",
+        "start": [2020, 4, 27, 18],
+        "end": [2020, 4, 27, 21]
+    },
+    {
+        "msg": "Reverse recruiting",
+        "start": [2020, 4, 28, 18],
+        "end": [2020, 4, 28, 21]
+    },
+    {
+        "msg": "Sorting",
+        "start": [2020, 4, 29, 18],
+        "end": [2020, 4, 29, 21]
+    },
+    {
+        "msg": "Heapsort",
+        "start": [2020, 4, 30, 18],
+        "end": [2020, 4, 30, 21]
+    },
+
+    {
+        "msg": "Object-oriented design",
+        "start": [2020, 5, 4, 18],
+        "end": [2020, 5, 4, 21]
+    },
+    {
+        "msg": "Salary negotiation",
+        "start": [2020, 5, 5, 18],
+        "end": [2020, 5, 5, 21]
+    },
+    {
+        "msg": "App programming and system design",
+        "start": [2020, 5, 6, 18],
+        "end": [2020, 5, 6, 21]
+    },
+    {
+        "msg": "Final program reflections",
+        "start": [2020, 5, 7, 18],
+        "end": [2020, 5, 7, 21]
+    },
+
+    {
+        "msg": "Weekly Reflections",
+        "start": [2020, 4, 17, 12],
+        "end": [2020, 4, 17, 12]
+    },
+    {
+        "msg": "Weekly Reflections",
+        "start": [2020, 4, 24, 12],
+        "end": [2020, 4, 24, 12]
+    },
+    {
+        "msg": "Weekly Reflections",
+        "start": [2020, 5, 1, 12],
+        "end": [2020, 5, 1, 12]
+    },
+    {
+        "msg": "Weekly Reflections",
+        "start": [2020, 5, 8, 12],
+        "end": [2020, 5, 8, 12]
+    },
+
+    {
+        "msg": "Optional Algorithm Review",
+        "start": [2020, 4, 15, 17],
+        "end": [2020, 4, 15, 18]
+    },
+    {
+        "msg": "Optional Algorithm Review",
+        "start": [2020, 4, 16, 17],
+        "end": [2020, 4, 16, 18]
+    },
+    {
+        "msg": "Optional Algorithm Review",
+        "start": [2020, 4, 20, 17],
+        "end": [2020, 4, 20, 18]
+    },
+    {
+        "msg": "Optional Algorithm Review",
+        "start": [2020, 4, 21, 17],
+        "end": [2020, 4, 21, 18]
+    },
+    {
+        "msg": "Optional Algorithm Review",
+        "start": [2020, 4, 22, 17],
+        "end": [2020, 4, 22, 18]
+    },
+    {
+        "msg": "Optional Algorithm Review",
+        "start": [2020, 4, 23, 17],
+        "end": [2020, 4, 23, 18]
+    },
+    {
+        "msg": "Technical level up",
+        "start": [2020, 4, 24, 17],
+        "end": [2020, 4, 24, 18]
+    },
+    {
+        "msg": "Optional Algorithm Review",
+        "start": [2020, 4, 27, 17],
+        "end": [2020, 4, 27, 18]
+    },
+    {
+        "msg": "Optional Algorithm Review",
+        "start": [2020, 4, 28, 17],
+        "end": [2020, 4, 28, 18]
+    },
+    {
+        "msg": "Optional Algorithm Review",
+        "start": [2020, 4, 29, 17],
+        "end": [2020, 4, 29, 18]
+    },
+    {
+        "msg": "Optional Algorithm Review",
+        "start": [2020, 4, 30, 17],
+        "end": [2020, 4, 30, 18]
+    },
+    {
+        "msg": "Technical level up",
+        "start": [2020, 5, 1, 17],
+        "end": [2020, 5, 1, 18]
+    },
+    {
+        "msg": "Optional Algorithm Review",
+        "start": [2020, 5, 4, 17],
+        "end": [2020, 5, 4, 18]
+    },
+    {
+        "msg": "Optional Algorithm Review",
+        "start": [2020, 5, 5, 17],
+        "end": [2020, 5, 5, 18]
+    },
+    {
+        "msg": "Optional Algorithm Review",
+        "start": [2020, 5, 6, 17],
+        "end": [2020, 5, 6, 18]
+    },
+    {
+        "msg": "Optional Algorithm Review",
+        "start": [2020, 5, 7, 17],
+        "end": [2020, 5, 7, 18]
+    },
+    {
+        "msg": "Technical level up",
+        "start": [2020, 5, 8, 17],
+        "end": [2020, 5, 8, 18]
+    }
+]
