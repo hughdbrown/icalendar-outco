@@ -3,17 +3,26 @@ We have events. There is no .ICS file so that we can import into web calendars.
 
 So I made a program that generates most of the calendar.
 
+# Importing the latest ICS file
+To keep things simple, I just keep the latest version of the ICS file in the repo. Then you don’t even have to clone the repo, as I describe below.
+- Open Chrome
+- Open the calendar in Chrome
+- In `Other calendars`, press the plus-sign `Add other calendars`
+- Select `From URL`
+- Paste `https://raw.githubusercontent.com/hughdbrown/icalendar-outco/master/latest-version.ics`
+- Press `Add calendar` button
+
+I have not tested this approach as much as the steps described below. The is something a bit weird about editing the events. You have been warned.
+
 # Using this program
 - Clone the repo
-- In a system prompt, cd to the correct directory
-- Run the command `./icalendar.py > a.ics`
 - Open Chrome
 - Open the calendar in Chrome
 - In `Other calendars`, press the plus-sign `Add other calendars`
 - Select `Import`
 - Select `Select file from your computer`
 - Navigate to the directory where the repo was cloned to
-- Select `a.ics`
+- Select `latest-version.ics`
 - Press `Import` button
 
 # Screen share of import
