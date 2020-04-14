@@ -12,7 +12,7 @@ To keep things simple, I just keep the latest version of the ICS file in the rep
 - Paste `https://raw.githubusercontent.com/hughdbrown/icalendar-outco/master/latest-version.ics`
 - Press `Add calendar` button
 
-I have not tested this approach as much as the steps described below. The is something a bit weird about editing the events. You have been warned.
+I have not tested this approach as much as the steps described below. If you use this approach, the calendar is considered an “other calendar” and has to be selected to be on. Individual events are not editable, as they are if you import as below.
 
 # Using this program
 - Clone the repo
